@@ -6,6 +6,7 @@ function Skills() {
 const myskills = ['HTML','CSS','JS','PHP','REACT JS','PYTHON','JAVA','C','C#','XML','JSON'] ;
 
 
+
   return (
     <div className="condiv skills">
             <h1 className="subtopic">My Skills</h1>

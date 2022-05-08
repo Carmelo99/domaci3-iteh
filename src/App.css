@@ -125,16 +125,7 @@ h1,h2,h3,h4,p{
   margin: 0 1rem;
   color:#4968ad;
 }
-/* .social i
-{
-  padding-right: 30px;
-  font-size: 25px;
-  color: #9a9b9c;
-}
-.social i:hover
-{
-  color: #ffffff;
-} */
+
 .widecard
 {
   border:0px solid #9a9b9c;
@@ -199,7 +190,7 @@ h1,h2,h3,h4,p{
   }
 }
 
-/* CSS */
+
 .button-1 {
   background-color: rgb(238,103,143);
   border-radius: 8px;

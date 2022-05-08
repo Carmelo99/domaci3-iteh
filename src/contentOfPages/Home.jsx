@@ -3,6 +3,7 @@ import ReactTypingEffect from 'react-typing-effect';
 import profilepic from '../img/profpic1.jpg';
 import Networks from '../components/Networks'
 
+
 function Home() {
   return (
     <div className="condiv home">

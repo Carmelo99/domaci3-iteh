@@ -4,6 +4,7 @@ function About({title, hobbies, buttonName, text, addMore}) {
 
   return (
     
+    
         <div className="condiv">
         <h1 className="subtopic">About Me</h1>
         <h4>Hello Everyone,</h4>
