@@ -1,6 +1,6 @@
 import React from 'react'
 
-function About({title, hobbies, buttonName, text, addMore}) {
+function About({title, hobbies, buttonName,  addMore}) {
 
   return (
     
